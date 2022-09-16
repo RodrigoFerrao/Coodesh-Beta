@@ -1,0 +1,16 @@
+{
+  "name": "coodesh",
+  "version": "1.0.0",
+  "description": "Projeto de testes Coodesh",
+  "main": "index.js",
+  "devDependencies": {
+    "@faker-js/faker": "^7.5.0",
+    "cypress": "^10.8.0",
+    "cypress-file-upload": "^5.0.8"
+  },
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Rodrigo Ferrao",
+  "license": "MIT"
+}
