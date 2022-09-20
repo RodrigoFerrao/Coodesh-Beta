@@ -35,10 +35,10 @@ navegador de preferência.
 ## Rodando os testes e acompanhando pelo Cypress Dashboard
 
 ```
-W.I.P
+npx cypress run --record --key 6745d852-1e11-42a4-979b-c900ad223a8b
 ```
 
-Em seguida acesse o cypress dashboard atraves desse [Cypress.Dashboard]
+Em seguida acesse o cypress dashboard atraves desse [Cypress.Dashboard](https://dashboard.cypress.io/projects/hepbnu)
 
 
 
