@@ -1,5 +1,5 @@
 import homepage from '../Pages/HomePage'
-import signupPage from '../Pages/signupPage'
+import signupPage from '../Pages/SignupPage'
 const { faker } = require('@faker-js/faker');
 
 
