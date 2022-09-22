@@ -4,10 +4,8 @@
 Projeto criado utilizando cypress onde o objetivo é testar e automatizar função de cadastro
 em uma plataforma de empregos. 
 
-
-## Instalação
-Versões utilizadas
-
+## Dev Dependencies
+```bash
 Node.js v16.17.0
 
 cypress: 10.8.0
@@ -15,7 +13,11 @@ cypress: 10.8.0
 @faker-js/faker: 7.5.0
 
 cypress-file-upload: 5.0.8
+```
+## Instalação
+Dev Dependencies
 
+    
 ```bash
   cd meu-projeto
   npm install cypress --save-dev
