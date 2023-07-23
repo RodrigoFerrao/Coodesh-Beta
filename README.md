@@ -21,7 +21,7 @@ Dev Dependencies
   cd meu-projeto
   npm install cypress --save-dev
   npm install @faker-js/faker --save-dev
-  npm install --save-dev cypress-file-upload  
+  npm install cypress-file-upload --save-dev
 ```
     
 ## Rodando os testes
