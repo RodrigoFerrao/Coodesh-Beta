@@ -1,4 +1,3 @@
-
 # Coodesh Beta
 
 Projeto criado utilizando cypress onde o objetivo é testar e automatizar função de cadastro
